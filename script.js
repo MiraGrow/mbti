@@ -25,28 +25,28 @@ const mbtiResults = {
     description: "전략적이고 독립적인 완벽주의자",
     detail: "자신의 신념과 목표에 따라 행동하며 깊은 내면 세계를 가진 인물",
     emoji: "❄️",
-    image: "https://i.imgur.com/3QfQZ6P.png"
+    image: "http://postfiles10.naver.net/20140202_121/hjkl9816_1391338352640nt3i0_PNG/20140202_193310.png?type=w2"
   },
   "INTP": {
     character: "벨",
     description: "논리적이고 호기심 많은 사색가",
     detail: "지식을 사랑하며 새로운 아이디어를 탐구하는 것을 즐김",
     emoji: "📚",
-    image: "https://i.imgur.com/8Km9tLL.png"
+    image: "https://w7.pngwing.com/pngs/581/950/png-transparent-disney-beauty-and-the-beast-belle-illustration-belle-beauty-and-the-beast-beauty-and-the-beast-image-file-formats-disney-princess-cartoon.png"
   },
   "ENTJ": {
     character: "무파사",
     description: "카리스마 넘치는 리더",
     detail: "강한 책임감과 리더십으로 조직을 이끄는 인물",
     emoji: "🦁",
-    image: "https://i.imgur.com/qIufhof.png"
+    image: "https://i.namu.wiki/i/WyjXewzbrdlBeoHQBoXAMeh142IaHmrPK2eGtcirhFYci8VWmbdfrEPSPX2L8W-tRFYPCkqL9tk9MaxTnNV3cNGilVCalJmiWH-N5hx_cbToqQsR6jWjJYsUIZRIoar1KfWDNHyfbJ0Vjozlaxk2Fg.webp"
   },
   "ENTP": {
     character: "지니",
     description: "재치 있고 창의적인 발명가",
     detail: "유머 감각이 뛰어나고 새로운 것을 시도하는 것을 좋아함",
     emoji: "🔮",
-    image: "https://i.imgur.com/BxQ9Q7P.png"
+    image: "https://w7.pngwing.com/pngs/660/266/png-transparent-disney-aladdin-genie-illustration-genie-princess-jasmine-jafar-aladdin-iago-jasmine-princess-jasmine-disney-princess-fictional-character.png"
   },
   "INFJ": {
     character: "포카혼타스",
