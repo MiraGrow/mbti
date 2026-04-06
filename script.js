@@ -53,84 +53,84 @@ const mbtiResults = {
     description: "이상주의적이고 통찰력 있는 조언자",
     detail: "깊은 공감 능력과 자연과의 연결을 중요시함",
     emoji: "🌿",
-    image: "https://i.imgur.com/cH4s7nP.png"
+    image: "https://image.cine21.com/resize/cine21/still/2005/0608/M0020403_9[S750,750].jpg"
   },
   "INFP": {
     character: "밤비",
     description: "감성적이고 순수한 이상주의자",
     detail: "따뜻한 마음과 깊은 감정을 지닌 인물",
     emoji: "🦌",
-    image: "https://i.imgur.com/Vz8kP6Z.png"
+    image: "https://tse3.mm.bing.net/th/id/OIP.3CFVinN8WY3V43V72lJXeAHaEj?w=882&h=543&rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   "ENFJ": {
     character: "티아나",
     description: "사람을 이끄는 따뜻한 리더",
     detail: "타인을 돕고 성장시키는 데 큰 보람을 느낌",
     emoji: "🌟",
-    image: "https://i.imgur.com/5gYyL8T.png"
+    image: "https://tse3.mm.bing.net/th/id/OIP.kWaepaHJNsm8MNnpP0JOXAHaFG?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   "ENFP": {
     character: "라푼젤",
     description: "자유롭고 열정적인 탐험가",
     detail: "호기심 많고 긍정적인 에너지를 주변에 전파함",
     emoji: "☀️",
-    image: "https://i.imgur.com/2DhmtJ4.png"
+    image: "https://tse3.mm.bing.net/th/id/OIP.p7fO-vwVZH5xWA_mY4qwLAHaLH?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   "ISTJ": {
     character: "신데렐라",
     description: "성실하고 책임감 있는 현실주의자",
     detail: "묵묵히 자신의 역할을 수행하며 신뢰를 쌓는 타입",
     emoji: "👑",
-    image: "https://i.imgur.com/7QFZ6uP.png"
+    image: "https://www.justwatch.com/images/backdrop/10712032/s1440/cinderella-ii-dreams-come-true"
   },
   "ISFJ": {
     character: "안나",
     description: "헌신적이고 따뜻한 수호자",
     detail: "주변 사람들을 위해 희생을 아끼지 않는 성격",
     emoji: "💝",
-    image: "https://i.imgur.com/eG7nR7m.png"
+    image: "https://i.pinimg.com/736x/2f/ba/2c/2fba2c7a20f20a9e7215c2a3d49838e5.jpg"
   },
   "ESTJ": {
     character: "티몬",
     description: "현실적이고 조직적인 관리자",
     detail: "체계적이고 효율적으로 일을 처리함",
     emoji: "📋",
-    image: "https://i.imgur.com/fT9z0dL.png"
+    image: "https://tse4.mm.bing.net/th/id/OIP.XmWZ4K9w9TIHB7ATNmB_dAHaEo?pid=ImgDet&w=474&h=296&rs=1&o=7&rm=3"
   },
   "ESFJ": {
     character: "세바스찬",
     description: "사교적이고 책임감 있는 조력자",
     detail: "주변 사람들을 챙기고 조화를 중요시함",
     emoji: "🦀",
-    image: "https://i.imgur.com/h9YzK8L.png"
+    image: "https://th.bing.com/th/id/R.b290dcacb5be8e77f20c4b19773632bc?rik=GtbFpJYaOGcWeA&riu=http%3a%2f%2fimages3.wikia.nocookie.net%2f__cb20101111023348%2fdisney%2fimages%2f5%2f59%2fTlm3pic0001251.jpg&ehk=SHdqhuh%2f%2fw6onQQsYHPoV7gSuFwWb7WUxr%2bLA%2fzoeI4%3d&risl=&pid=ImgRaw&r=0"
   },
   "ISTP": {
     character: "타잔",
     description: "조용하고 실용적인 탐험가",
     detail: "직접 경험하며 배우는 것을 선호",
     emoji: "🌴",
-    image: "https://i.imgur.com/0mZ8k3T.png"
+    image: "https://tse2.mm.bing.net/th/id/OIP.XdMBquRnj8bgIPgu6mnbUAHaEY?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   "ISFP": {
     character: "아리엘",
     description: "감성적이고 자유로운 예술가",
     detail: "자신의 감정과 꿈을 중요하게 생각함",
     emoji: "🧜",
-    image: "https://i.imgur.com/1Yt5XkP.png"
+    image: "https://tse1.mm.bing.net/th/id/OIP.YqC-GYnXx7AGOfzjUL7blAHaJj?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   "ESTP": {
     character: "알라딘",
     description: "모험심 강한 행동파",
     detail: "위기 상황에서도 빠르게 판단하고 행동",
     emoji: "🪄",
-    image: "https://i.imgur.com/3t9dKfH.png"
+    image: "https://tse1.mm.bing.net/th/id/OIP.WfShZmBC_jJfYMcbcvy9SwHaEK?w=1920&h=1080&rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   "ESFP": {
     character: "올라프",
     description: "밝고 긍정적인 분위기 메이커",
     detail: "사람들과 즐거움을 나누는 것을 좋아함",
     emoji: "⛄",
-    image: "https://i.imgur.com/N9Yt3d2.png"
+    image: "https://tse4.mm.bing.net/th/id/OIP.XizGO6rb4Wu07lL_JBAIfwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"
   }
 };
 
